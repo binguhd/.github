@@ -57,7 +57,7 @@
 
 **JSON · UHD · 缩略图 · 表格**
 
-👀 抓取 Bing 每日壁纸（九个地区）数据，存储 JSON、UHD 和缩略图，汇总表格。
+👀 自动抓取 Bing 每日壁纸（中国地区），存储 UHD 和 320×240 格式，后者作为略缩图形成归档汇总表格。
 
 🔗 [binguhd/binguhd-2026](https://github.com/binguhd/binguhd-2026)
 
