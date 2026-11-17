@@ -67,7 +67,7 @@
 
 👀 抓取 Bing 每日壁纸（九个地区）数据，存储 JSON、UHD 和缩略图，汇总表格。
 
-🔗 [binguhd/binguhd-CN](https://github.com/binguhd/binguhd-CN)
+🔗 [binguhd/binguhd-cn](https://github.com/binguhd/binguhd-cn)
 
 ## 🤝 参与
 
